@@ -1,3 +1,3 @@
 # Tailwind-Css
 
-Deployment 
+Bugs during deployment
