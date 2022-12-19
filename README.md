@@ -1,3 +1,3 @@
 # Tailwind-Css
 
-Bugs 
+First site using tailwind
